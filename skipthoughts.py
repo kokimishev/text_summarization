@@ -20,8 +20,8 @@ profile = False
 #-----------------------------------------------------------------------------#
 # Specify model and table locations here
 #-----------------------------------------------------------------------------#
-path_to_models = 'C:/Users/mt16558/Documents/Project/NLP Experiments/Text Summarization/'
-path_to_tables = 'C:/Users/mt16558/Documents/Project/NLP Experiments/Text Summarization/'
+path_to_models = '/content/'
+path_to_tables = '/content/'
 #-----------------------------------------------------------------------------#
 
 path_to_umodel = path_to_models + 'uni_skip.npz'
